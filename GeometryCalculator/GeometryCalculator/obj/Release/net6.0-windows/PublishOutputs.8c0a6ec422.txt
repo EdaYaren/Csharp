@@ -1,0 +1,6 @@
+C:\Users\Yaren\Desktop\C#\GeometryCalculator\GeometryCalculator.exe
+C:\Users\Yaren\Desktop\C#\GeometryCalculator\GeometryCalculator.dll
+C:\Users\Yaren\Desktop\C#\GeometryCalculator\GeometryCalculator.deps.json
+C:\Users\Yaren\Desktop\C#\GeometryCalculator\GeometryCalculator.runtimeconfig.json
+C:\Users\Yaren\Desktop\C#\GeometryCalculator\GeometryCalculator.pdb
+C:\Users\Yaren\Desktop\C#\GeometryCalculator\aa-DJ\GeometryCalculator.resources.dll
